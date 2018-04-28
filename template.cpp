@@ -3,7 +3,7 @@
 *    Assignment 40, asdf
 *    Sister Hansen, CS 124
 * Author:
-*    Sterling Jensen
+*    Bentley Jensen
 * Summary:
 *    asdf
 *
